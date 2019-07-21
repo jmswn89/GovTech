@@ -11,7 +11,7 @@ To clean and package the files, plug-ins, and libraries before running the appli
 
 % *set JAVA_HOME=*<*JDK directory*\>
 
-% cd <*the solution source code directory*\>/*todoScanner*
+% *cd* <*the solution source code directory*\>/*todoScanner*
 
 % <*maven installation directory*\>/*mvn clean package*
 
