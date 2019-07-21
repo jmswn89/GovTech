@@ -3,7 +3,7 @@ This repository contains solution for GovTech's coding challenge.
 
 ## How to Compile / Install
 
-This application is created with Apache Maven. The Apache Maven can be downloaded from  [https://maven.apache.org/](https://maven.apache.org/)download.cgi. Download and install Java (at least version 8) from [https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Extract the downloaded Apache Maven to a directory.
+This application is created with Apache Maven. The Apache Maven can be downloaded from  [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi). Download and install Java (at least version 8) from [https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Extract the downloaded Apache Maven to a directory.
 
 
 
