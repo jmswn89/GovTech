@@ -9,15 +9,17 @@ This application is created with Apache Maven. The Apache Maven can be downloade
 
 To clean and package the files, plug-ins, and libraries before running the application:
 
-% *set JAVA_HOME=<JDK directory>*
+% *set JAVA_HOME=\*<JDK directory>*
 
-% cd <the solution source code directory>/todoScanne
+% cd \*<*the solution source code directory*>*/todoScanner
 
-% *<maven installation directory>/mvn clean package* 
+% \*<maven installation directory>**/mvn clean package* 
 
 
 
 Running the command above will also run the unit tests automatically.
+
+## How to Run the Application
 
 To run the application using Maven:
 
